@@ -1,0 +1,10 @@
+<configuration>
+    <input>
+        <net-file value="HWY1edge2junctionNet.net.xml"/>
+        <route-files value="hwyroutes.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="8000"/>
+    </time>
+</configuration>

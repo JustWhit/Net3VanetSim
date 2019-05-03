@@ -1,0 +1,4 @@
+
+<edges>
+    <edge id="hwy" from="entr" to="exit" numlanes="3" speed="12.00" /><!--- Lanes 3 -->
+</edges>

@@ -1,0 +1,6 @@
+
+
+<nodes>
+    <node id="entr" x="0.0" y="0.0" type="unregulated" /><!--- Hwy Entrance -->
+    <node id="exit" x="0.0" y="500.0" type="unregulated" /><!--- Hwy Exit --> 
+</nodes>
